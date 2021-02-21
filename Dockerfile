@@ -1,1 +1,1 @@
-FROM docker.io/library/metallb/speaker:v0.9.5
+FROM docker.io/metallb/speaker:v0.9.5
